@@ -1,18 +1,166 @@
 {
-  "Southside": {
-    "logo": "southside.png",
-    "color": "#FF5908"
+  "Belton-Honea Path": {
+    "logo": "https://cmsv2-assets.apptegy.net/uploads/9480/logo/11219/BHPlogo.png",
+    "color": "#c4061f"
   },
-  "Greenville Tech Charter": {
-    "logo": "gtc.png",
-    "color": "#0002fb"
+  "Cardinal Newman": {
+    "logo": "https://assets.scorebooklive.com/uploads/production/team/262808-v3/image/20191209011415_280_mascot300.png",
+    "color": "#cc1122"
   },
-  "Wren": {
-    "logo": "wren.png",
-    "color": "#004990"
+  "Chapman": {
+    "logo": "https://cmsv2-assets.apptegy.net/uploads/10636/logo/12126/chapman_high_school.png",
+    "color": "#ef403b"
+  },
+  "Christ Church": {
+    "logo": "https://production-gofan-assets.s3.amazonaws.com/uploads/school/logo/SC447/Logo_Cavalier_Head_Navy.png",
+    "color": "#013766"
+  },
+  "Easley": {
+    "logo": "https://cmsv2-assets.apptegy.net/uploads/6687/logo/7937/easley_hs_logo.png",
+    "color": "#0b663a"
+  },
+  "Emerald": {
+    "logo": "https://sportshub2-uploads.vnn-prod.zone/files/sites/454/2017/08/03131407/4304.png",
+    "color": "#3b026d"
+  },
+  "Fountain Inn": {
+    "logo": "https://sportshub-assets-prod.s3.us-west-2.amazonaws.com/logo_20806_1689190876.png",
+    "color": "#022954"
+  },
+  "Gaffney": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1232/2017/07/31114218/4314.png",
+    "color": "#bfb67b"
+  },
+  "Greenville": {
+    "logo": "https://sportshub2-uploads.vnn-prod.zone/files/sites/5733/2023/07/20122843/Image20230721002431.png",
+    "color": "#e32024"
+  },
+  "Greenwood": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/423/2020/10/12101531/logo_outline.png",
+    "color": "#000000"
+  },
+  "Greer": {
+    "logo": "https://cfunity-school-logos.nfhsnetwork.com/v1/sc_logo_greer.png",
+    "color": "#f5cc00"
+  },
+  "High Point Academy": {
+    "logo": "https://grizzlywpc.files.wordpress.com/2017/09/grizzly-logo-vector.png",
+    "color": "#e52427"
+  },
+  "Hillcrest": {
+    "logo": "https://www.greenvilleonline.com/gcdn/presto/2020/05/28/PGRE/9e2e256f-d90f-491d-a2b9-655bb3683446-HillcrestHS.png",
+    "color": "#d3181f"
+  },
+  "Jefferson (GA)": {
+    "logo": "https://www.jeffcityschools.org/docs/_full_/district/diamond%20j%20correct%20colors%20(1).png?id=1630&thumbwidth=190&fullwidth=500",
+    "color": "#0632ad"
+  },
+  "JF Byrnes": {
+    "logo": "https://media.discordapp.net/attachments/1005948431543586956/1019392363912761384/IMG_8494.png?width=956&height=425",
+    "color": "#003399"
+  },
+  "JL Mann": {
+    "logo": "https://pbs.twimg.com/profile_images/1193333167098400768/n8n9EfiT_400x400.png",
+    "color": "#7fa1e9"
+  },
+  "Keenan": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1534/2017/07/26133114/4448.png",
+    "color": "#ffd302"
+  },
+  "Laurens": {
+    "logo": "https://cmsv2-assets.apptegy.net/uploads/13674/logo/15165/Laurens_District_High_School_logo_template_300.png",
+    "color": "#ffc72a"
+  },
+  "Legacy Early College": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/2001/2017/11/08165312/logo.png",
+    "color": "#E4A414"
+  },
+  "Mauldin": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/2979/2021/03/22225527/Mauldin_Logoo.png",
+    "color": "#de4501"
+  },
+  "McCormick": {
+    "logo": "https://cmsv2-assets.apptegy.net/uploads/17150/logo/18143/My_project-1__2_.png",
+    "color": "#fe0000"
+  },
+  "Mountain View Prep": {
+    "logo": "https://static.wixstatic.com/media/58b489_8027cbd58dfc4b45b6f5bced10007de9~mv2.png/v1/fill/w_463,h_359,al_c,lg_1,q_85,enc_avif,quality_auto/58b489_8027cbd58dfc4b45b6f5bced10007de9~mv2.png",
+    "color": "#12848e"
+  },
+  "Nation Ford": {
+    "logo": "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1675530112/fortmillschoolsorg/t0qbaou2pkvj0n5mye3z/GrayRedNFblackshadow01.png",
+    "color": "#aa2030"
+  },
+  "North Augusta": {
+    "logo": "https://cmsv2-assets.apptegy.net/uploads/22934/logo/25747/North_Augusta_High_Logo.png",
+    "color": "#a88229"
+  },
+  "Northwestern": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1152/2024/04/09184735/new_logo-removebg-preview-2.png",
+    "color": "#fab711"
+  },
+  "Palmetto": {
+    "logo": "https://i.imgur.com/ZNDRZdc.png",
+    "color": "#c8031c"
   },
   "Powdersville": {
-    "logo": "powdersville.png",
-    "color": "#C8102E"
+    "logo": "http://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1179/2018/01/19191125/logo_outline.png",
+    "color": "#153462"
+  },
+  "River Bluff": {
+    "logo": "https://sc50000473.schoolwires.net/cms/lib/SC50000473/Centricity/Template/GlobalAssets/images///Logos/RBHS.png",
+    "color": "#144734"
+  },
+  "Seneca": {
+    "logo": "https://cfunity-school-logos.nfhsnetwork.com/v1/seneca-high-school-seneca-sc_ca51be582d.png",
+    "color": "#121f49"
+  },
+  "South Pointe": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/263/2017/07/14202404/4422.png",
+    "color": "#cf193e"
+  },
+  "Southside": {
+    "logo": "https://ohanastudios.org/wp-content/uploads/2022/05/Southside_S_Logo.png",
+    "color": "#1E1E1E"
+  },
+  "Southside Christian": {
+    "logo": "https://www.wspa.com/wp-content/uploads/sites/53/2021/07/Southside-Christian.png",
+    "color": "#67b1e2"
+  },
+  "Spartanburg": {
+    "logo": "https://5starassets.blob.core.windows.net/athleticsites/2579784/911/images/3992751b-0165-4f0d-8e3c-5778af086594.png",
+    "color": "#053460"
+  },
+  "St. Joe's": {
+    "logo": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/279490/20181010235117_948_mascot720.png",
+    "color": "#005595"
+  },
+  "TL Hanna": {
+    "logo": "http://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/477/2017/07/17170056/4437.png",
+    "color": "#c6b259"
+  },
+  "Travelers Rest": {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/75/TR_High_School_logo.png",
+    "color": "#0b008a"
+  },
+  "Walhalla": {
+    "logo": "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1622811712/oconeek12scus/oimqrc9zpex9ltiwemig/WalhallaHighSchool.png",
+    "color": "#5f00b2"
+  },
+  "West Ashley": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/727/2018/01/24205034/logo_outline.png",
+    "color": "#4f2682"
+  },
+  "Westside": {
+    "logo": "https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/2311/2019/08/21183145/fa5347a595f9-SC2634-1.png",
+    "color": "#911633"
+  },
+  "Woodruff": {
+    "logo": "https://production-gofan-assets.s3.amazonaws.com/uploads/school/logo/SC2697/woodruff.png",
+    "color": "#3e0403"
+  },
+  "Wren": {
+    "logo": "https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/3566/WH/4394313/Wren-Tree-with-Moon-and-HURRICANES.png",
+    "color": "#010e8a"
   }
 }
