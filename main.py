@@ -264,3 +264,8 @@ def serve_ticker():
             return f.read(), 200, {'Content-Type': 'application/json'}
     else:
         return '{}', 200, {'Content-Type': 'application/json'}
+        
+        
+if __name__ == '__main__':
+    os.makedirs(DATA_DIR, exist_ok=True)
+    app.run(host='0.0.0.0', port=8080, debug=True)
