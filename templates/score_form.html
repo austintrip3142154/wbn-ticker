@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Submit Score</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h2>Submit Score</h2>
+    <form method="post">
+        <label>Region:</label><br>
+        <input type="text" name="region" required><br><br>
+
+        <label>Visitor Team:</label><br>
+        <select name="visitor_team" required>
+            {% for team in teams %}
+            <option value="{{ team }}">{{ team }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label>Visitor Score:</label><br>
+        <input type="number" name="visitor_score" required><br><br>
+
+        <label>Home Team:</label><br>
+        <select name="home_team" required>
+            {% for team in teams %}
+            <option value="{{ team }}">{{ team }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label>Home Score:</label><br>
+        <input type="number" name="home_score" required><br><br>
+
+        <label>Quarter:</label><br>
+        <input type="text" name="quarter" required><br><br>
+
+        <button type="submit">Submit Score</button>
+    </form>
+    <a href="/">Back to Home</a>
+</body>
+</html>

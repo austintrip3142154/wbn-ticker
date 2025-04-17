@@ -1,0 +1,18 @@
+{
+  "Southside": {
+    "logo": "southside.png",
+    "color": "#FF5908"
+  },
+  "Greenville Tech Charter": {
+    "logo": "gtc.png",
+    "color": "#0002fb"
+  },
+  "Wren": {
+    "logo": "wren.png",
+    "color": "#004990"
+  },
+  "Powdersville": {
+    "logo": "powdersville.png",
+    "color": "#C8102E"
+  }
+}

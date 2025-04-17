@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Scores</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>✏️ Edit Scores</h1>
+    {% for game in games %}
+    <form method="post">
+        <input type="hidden" name="game_index" value="{{ loop.index0 }}">
+        <strong>{{ game['TEAM NAME1'] }} vs {{ game['TEAM NAME2'] }}</strong><br>
+        <label>Visitor Score:</label>
+        <input type="number" name="visitor_score" value="{{ game['SCORE1'] }}" required>
+        <label>Home Score:</label>
+        <input type="number" name="home_score" value="{{ game['SCORE2'] }}" required>
+        <label>Quarter:</label>
+        <input type="text" name="quarter" value="{{ game['QTR'] }}" required>
+        <button type="submit">Update</button>
+        <button type="submit" name="delete" value="{{ loop.index0 }}" onclick="return confirm('Are you sure you want to delete this game?');">Delete</button>
+        <hr>
+    </form>
+    {% endfor %}
+    <a href="/">⬅ Back to Home</a>
+</body>
+</html>

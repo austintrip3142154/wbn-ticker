@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WBN Live Ticker Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>📺 WBN Live Ticker Dashboard</h1>
+
+    <section>
+        <h2>📰 Headlines</h2>
+        {% if headlines %}
+        <ul>
+            {% for h in headlines %}
+            <li><strong>{{ h['NAME'] }}:</strong> {{ h['TICKER'] }}</li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p>No headlines available.</p>
+        {% endif %}
+    </section>
+
+    <section>
+        <h2>🏈 Scores</h2>
+        {% if games %}
+        <table>
+            <thead>
+                <tr>
+                    <th>Region</th>
+                    <th>Visitor</th>
+                    <th>Score</th>
+                    <th>Home</th>
+                    <th>Score</th>
+                    <th>Quarter</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for g in games %}
+                <tr>
+                    <td>{{ g['NAME'] }}</td>
+                    <td style="color: {{ g['TEAM COLOR1'] }}">{{ g['TEAM NAME1'] }}</td>
+                    <td>{{ g['SCORE1'] }}</td>
+                    <td style="color: {{ g['TEAM COLOR2'] }}">{{ g['TEAM NAME2'] }}</td>
+                    <td>{{ g['SCORE2'] }}</td>
+                    <td>{{ g['QTR'] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p>No scores available.</p>
+        {% endif %}
+    </section>
+
+    <a href="/">⬅ Back to Home</a>
+</body>
+</html>

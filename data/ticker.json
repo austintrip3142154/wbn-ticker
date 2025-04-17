@@ -1,0 +1,54 @@
+[
+  {
+    "NAME": "Nope",
+    "TEAM NAME1": "",
+    "TEAM LOGO1": "",
+    "TEAM COLOR1": "#000000",
+    "SCORE1": "",
+    "TEAM NAME2": "",
+    "TEAM LOGO2": "",
+    "TEAM COLOR2": "#000000",
+    "SCORE2": "",
+    "QTR": "",
+    "TICKER": "No!"
+  },
+  {
+    "NAME": "Breaking News",
+    "TEAM NAME1": "",
+    "TEAM LOGO1": "",
+    "TEAM COLOR1": "#000000",
+    "SCORE1": "",
+    "TEAM NAME2": "",
+    "TEAM LOGO2": "",
+    "TEAM COLOR2": "#000000",
+    "SCORE2": "",
+    "QTR": "",
+    "TICKER": "Test"
+  },
+  {
+    "NAME": "Test",
+    "TEAM NAME1": "Wren",
+    "TEAM LOGO1": "wren.png",
+    "TEAM COLOR1": "#004990",
+    "SCORE1": "2",
+    "TEAM NAME2": "Powdersville",
+    "TEAM LOGO2": "powdersville.png",
+    "TEAM COLOR2": "#C8102E",
+    "SCORE2": "7",
+    "QTR": "No",
+    "TICKER": ""
+  },
+  {
+    "NAME": "Baseball",
+    "TEAM NAME1": "Greenville Tech Charter",
+    "TEAM LOGO1": "gtc.png",
+    "TEAM COLOR1": "#0002fb",
+    "SCORE1": "1",
+    "TEAM NAME2": "Southside",
+    "TEAM LOGO2": "southside.png",
+    "TEAM COLOR2": "#FF5908",
+    "SCORE2": "0",
+    "QTR": "Top 1st",
+    "TICKER": ""
+  }
+]
